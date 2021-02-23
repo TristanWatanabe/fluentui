@@ -109,6 +109,7 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
     ariaLabelForSelectionColumn,
     className,
     checkboxVisibility,
+    checkButtonAriaLabel,
     compact,
     constrainMode,
     dragDropEvents,
@@ -170,7 +171,6 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
     getCellValueKey,
     getRowAriaLabel,
     getRowAriaDescribedBy,
-    checkButtonAriaLabel,
     checkboxCellClassName,
     useReducedRowRenderer,
     enableUpdateAnimations,
@@ -438,7 +438,7 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
         collapseAllVisibility,
         getRowAriaLabel,
         getRowAriaDescribedBy,
-        checkButtonAriaLabel,
+        checkButtonAriaLabel: checkButtonAriaLabel ? checkButtonAriaLabel : 'select row',
         checkboxCellClassName,
         useReducedRowRenderer,
         indentWidth,
@@ -599,7 +599,6 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
       <FocusRects />
       <div
         role="grid"
-        aria-label={ariaLabelForGrid}
         aria-rowcount={isPlaceholderData ? -1 : rowCount}
         aria-colcount={colCount}
         aria-readonly="true"
