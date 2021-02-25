@@ -96,6 +96,8 @@ export interface IDetailsHeaderBaseProps extends React.ClassAttributes<DetailsHe
    * @defaultvalue true
    */
   useFastIcons?: boolean;
+
+  rowHeaderId?: string | undefined;
 }
 
 /**

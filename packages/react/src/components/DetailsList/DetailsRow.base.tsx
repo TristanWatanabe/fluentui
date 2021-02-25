@@ -19,7 +19,7 @@ import { IDragDropOptions } from '../../DragDrop';
 import { IDetailsRowBaseProps } from './DetailsRow.types';
 import { IDetailsRowCheckProps } from './DetailsRowCheck.types';
 import { IDetailsRowStyleProps, IDetailsRowStyles } from './DetailsRow.types';
-import { classNamesFunction } from '../../Utilities';
+import { classNamesFunction, getId } from '../../Utilities';
 import { IDetailsRowFieldsProps } from './DetailsRowFields.types';
 import { IProcessedStyleSet } from '../../Styling';
 
@@ -50,6 +50,7 @@ export class DetailsRowBase extends React.Component<IDetailsRowBaseProps, IDetai
   private _cellMeasurer = React.createRef<HTMLSpanElement>();
   private _focusZone = React.createRef<IFocusZone>();
   private _droppingClassNames: string;
+  private _id: string;
   /** Whether this.props.onDidMount has been called */
   private _onDidMountCalled: boolean;
   private _dragDropSubscription: IDisposable;
@@ -80,6 +81,7 @@ export class DetailsRowBase extends React.Component<IDetailsRowBaseProps, IDetai
     };
 
     this._droppingClassNames = '';
+    this._id = getId('checkbox');
   }
   public componentDidMount(): void {
     const { dragDropHelper, selection, item, onDidMount } = this.props;
@@ -201,6 +203,7 @@ export class DetailsRowBase extends React.Component<IDetailsRowBaseProps, IDetai
       groupNestingDepth,
       useFastIcons = true,
       cellStyleProps,
+      rowHeaderId,
     } = this.props;
     const { columnMeasureInfo, isDropping } = this.state;
     const { isSelected = false, isSelectionModal = false } = this.state.selectionState;
@@ -292,9 +295,11 @@ export class DetailsRowBase extends React.Component<IDetailsRowBaseProps, IDetai
         {showCheckbox && (
           <div role="gridcell" aria-colindex={1} data-selection-toggle={true} className={this._classNames.checkCell}>
             {onRenderCheck({
+              id: `${this._id}-checkbox`,
               selected: isSelected,
               anySelected: isSelectionModal,
               'aria-label': checkButtonAriaLabel,
+              'aria-labelledby': `${this._id}-checkbox ${rowHeaderId}`,
               canSelect,
               compact,
               className: this._classNames.check,

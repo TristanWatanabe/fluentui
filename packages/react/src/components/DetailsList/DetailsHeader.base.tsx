@@ -180,6 +180,10 @@ export class DetailsHeaderBase extends React.Component<IDetailsHeaderBaseProps, 
       checkboxVisibility,
       className,
     } = this.props;
+
+    let { rowHeaderId } = this.props;
+    rowHeaderId = rowHeaderId?.split('-')[0];
+
     const { isAllSelected, columnResizeDetails, isSizing, isAllCollapsed } = this.state;
     const showCheckbox = selectAllVisibility !== SelectAllVisibility.none;
     const isCheckboxHidden = selectAllVisibility === SelectAllVisibility.hidden;
@@ -321,7 +325,7 @@ export class DetailsHeaderBase extends React.Component<IDetailsHeaderBaseProps, 
               styles={column.styles}
               key={column.key}
               columnIndex={(showCheckbox ? 2 : 1) + columnIndex}
-              parentId={this._id}
+              parentId={rowHeaderId ? rowHeaderId : this._id}
               isDraggable={_isDraggable}
               updateDragInfo={this._updateDragInfo}
               dragDropHelper={this._dragDropHelper}

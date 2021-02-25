@@ -6,6 +6,7 @@ import {
   Async,
   KeyCodes,
   elementContains,
+  getId,
   getRTLSafeKeyCode,
   IRenderFunction,
   classNamesFunction,
@@ -59,6 +60,7 @@ export interface IDetailsListState {
   isCollapsed?: boolean;
   isSizing?: boolean;
   isSomeGroupExpanded?: boolean;
+  rowHeaderId?: string;
   /**
    * A unique object used to force-update the List when it changes.
    */
@@ -177,6 +179,7 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
     enterModalSelectionOnTouch,
     onRenderDefaultRow,
     selectionZoneRef,
+    rowHeaderId,
   } = props;
 
   const groupNestingDepth = getGroupNestingDepth(groups);
@@ -461,6 +464,7 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
         enableUpdateAnimations,
         rowWidth,
         useFastIcons,
+        rowHeaderId,
       };
 
       if (!item) {
@@ -649,6 +653,7 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
                 onRenderDetailsCheckbox: onRenderCheckbox,
                 rowWidth: sumColumnWidths(adjustedColumns),
                 useFastIcons,
+                rowHeaderId,
               },
               onRenderDetailsHeader,
             )}
@@ -734,6 +739,7 @@ export class DetailsListBase extends React.Component<IDetailsListProps, IDetails
       isSomeGroupExpanded: props.groupProps && !props.groupProps.isAllGroupsCollapsed,
       version: {},
       getDerivedStateFromProps: this._getDerivedStateFromProps,
+      rowHeaderId: undefined,
     };
 
     this._selection =
@@ -1123,6 +1129,10 @@ export class DetailsListBase extends React.Component<IDetailsListProps, IDetails
 
       adjustedColumns.forEach(column => {
         this._getColumnOverride(column.key).currentWidth = column.calculatedWidth;
+
+        if (column.isRowHeader && previousState && !previousState.rowHeaderId) {
+          this.setState({ rowHeaderId: `${getId('header')}-${column.key}` });
+        }
       });
     }
 

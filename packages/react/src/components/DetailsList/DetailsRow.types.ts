@@ -197,6 +197,11 @@ export interface IDetailsRowBaseProps
    * @defaultvalue true
    */
   useFastIcons?: boolean;
+
+  /**
+   * If isRowHeader is true, this will hold the generated row header id
+   */
+  rowHeaderId?: string | undefined;
 }
 
 /**
