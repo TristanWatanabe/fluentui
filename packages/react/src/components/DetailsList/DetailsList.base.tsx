@@ -613,6 +613,7 @@ const DetailsListInner: React.ComponentType<IDetailsListInnerProps> = (
       <FocusRects />
       <div
         role="grid"
+        aria-label={ariaLabelForGrid}
         aria-rowcount={isPlaceholderData ? -1 : rowCount}
         aria-colcount={colCount}
         aria-readonly="true"
