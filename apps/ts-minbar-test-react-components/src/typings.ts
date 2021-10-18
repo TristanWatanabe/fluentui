@@ -14,7 +14,7 @@ export async function typings() {
   logger(`✔️ Temporary directory was created: ${tmpDirectory}`);
 
   // Install dependencies, ensuring we specify the same TS version as our projects use
-  const tsVersion = '4.0';
+  const tsVersion = '3.9';
   const dependencies = ['@types/react', '@types/react-dom', 'react', 'react-dom', `typescript@${tsVersion}`].join(' ');
   await sh(`yarn add ${dependencies}`, tmpDirectory);
   logger(`✔️ Dependencies were installed`);
