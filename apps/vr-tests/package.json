@@ -11,10 +11,12 @@
     "lint": "just-scripts lint",
     "screener:build": "cross-env NODE_OPTIONS=--max-old-space-size=3072 just-scripts storybook:build",
     "screener": "just-scripts screener",
-    "start": "just-scripts dev:storybook"
+    "start": "just-scripts dev:storybook",
+    "build:storybook": "build-storybook -o dist/storybook"
   },
   "devDependencies": {
-    "@fluentui/eslint-plugin": "*"
+    "@fluentui/eslint-plugin": "*",
+    "@storybook/testing-library": "^0.0.13"
   },
   "dependencies": {
     "@fluentui/example-data": "^8.4.2",
