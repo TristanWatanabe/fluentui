@@ -3,6 +3,8 @@ const { TsconfigPathsPlugin } = require('tsconfig-paths-webpack-plugin');
 
 module.exports = /** @type {import('../../../.storybook/main').StorybookBaseConfig} */ ({
   stories: ['../src/**/*.stories.tsx'],
+
+  addons: ['storybook-addon-pseudo-states'],
   core: {
     builder: 'webpack5',
   },
