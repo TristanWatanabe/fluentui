@@ -4,7 +4,7 @@ const { TsconfigPathsPlugin } = require('tsconfig-paths-webpack-plugin');
 module.exports = /** @type {import('../../../.storybook/main').StorybookBaseConfig} */ ({
   addons: ['@fluentui/react-storybook-addon'],
 
-  stories: ['../src/**/*.stories.tsx'],
+  stories: ['../src/stories/Example/*.stories.tsx'],
   core: {
     builder: 'webpack5',
     disableTelemetry: true,
