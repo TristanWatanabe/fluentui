@@ -100,9 +100,10 @@ export function preset() {
 
   task('swc', () => {
     return series(
-      //'ts:declaration-files-emit',
-      'ts',
+      'ts:declaration-files-emit',
+      // 'ts',
       'swc:compile',
+      condition('babel:postprocess', () => fs.existsSync(path.join(process.cwd(), '.babelrc.json'))),
     );
   });
 
