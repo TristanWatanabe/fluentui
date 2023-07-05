@@ -72,7 +72,7 @@ function _getFocusStyleInternal(theme: ITheme, options: IGetFocusStylesOptions =
     borderColor = theme.palette.white,
     outlineColor = theme.palette.neutralSecondary,
     isFocusedOnly = true,
-    pointerEvents,
+    pointerEvents = 'none',
   } = options;
 
   return {
