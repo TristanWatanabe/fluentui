@@ -1646,6 +1646,7 @@ exports[`Dropdown single-select Renders correctly when open 1`] = `
                             content: "";
                             left: 0px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 0px;
                             top: 0px;
@@ -1834,6 +1835,7 @@ exports[`Dropdown single-select Renders correctly when open 1`] = `
                           content: "";
                           left: 0px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 0px;
                           top: 0px;

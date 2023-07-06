@@ -393,6 +393,7 @@ exports[`DonutChart - mouse events Should render callout correctly on mouseover 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -484,6 +485,7 @@ exports[`DonutChart - mouse events Should render callout correctly on mouseover 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -575,6 +577,7 @@ exports[`DonutChart - mouse events Should render callout correctly on mouseover 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -947,6 +950,7 @@ exports[`DonutChart - mouse events Should render customized callout on mouseover
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1038,6 +1042,7 @@ exports[`DonutChart - mouse events Should render customized callout on mouseover
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1129,6 +1134,7 @@ exports[`DonutChart - mouse events Should render customized callout on mouseover
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1471,6 +1477,7 @@ exports[`DonutChart snapShot testing Should render arc labels 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1561,6 +1568,7 @@ exports[`DonutChart snapShot testing Should render arc labels 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1651,6 +1659,7 @@ exports[`DonutChart snapShot testing Should render arc labels 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1993,6 +2002,7 @@ exports[`DonutChart snapShot testing Should render arc labels in percentage form
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2083,6 +2093,7 @@ exports[`DonutChart snapShot testing Should render arc labels in percentage form
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2173,6 +2184,7 @@ exports[`DonutChart snapShot testing Should render arc labels in percentage form
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2467,6 +2479,7 @@ exports[`DonutChart snapShot testing renders DonutChart correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2557,6 +2570,7 @@ exports[`DonutChart snapShot testing renders DonutChart correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2647,6 +2661,7 @@ exports[`DonutChart snapShot testing renders DonutChart correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2941,6 +2956,7 @@ exports[`DonutChart snapShot testing renders enabledLegendsWrapLines correctly 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3031,6 +3047,7 @@ exports[`DonutChart snapShot testing renders enabledLegendsWrapLines correctly 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3121,6 +3138,7 @@ exports[`DonutChart snapShot testing renders enabledLegendsWrapLines correctly 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3549,6 +3567,7 @@ exports[`DonutChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3639,6 +3658,7 @@ exports[`DonutChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3729,6 +3749,7 @@ exports[`DonutChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4041,6 +4062,7 @@ exports[`DonutChart snapShot testing renders value inside onf the pie 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4131,6 +4153,7 @@ exports[`DonutChart snapShot testing renders value inside onf the pie 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4221,6 +4244,7 @@ exports[`DonutChart snapShot testing renders value inside onf the pie 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4490,6 +4514,7 @@ exports[`Screen resolution Should remain unchanged on zoom in 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -4576,6 +4601,7 @@ exports[`Screen resolution Should remain unchanged on zoom in 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -4662,6 +4688,7 @@ exports[`Screen resolution Should remain unchanged on zoom in 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -4928,6 +4955,7 @@ exports[`Screen resolution Should remain unchanged on zoom out 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -5014,6 +5042,7 @@ exports[`Screen resolution Should remain unchanged on zoom out 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -5100,6 +5129,7 @@ exports[`Screen resolution Should remain unchanged on zoom out 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -5511,6 +5541,7 @@ exports[`Should hide callout on mouse leave 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -5597,6 +5628,7 @@ exports[`Should hide callout on mouse leave 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -5683,6 +5715,7 @@ exports[`Should hide callout on mouse leave 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -5962,6 +5995,7 @@ exports[`Should reflect theme change 1`] = `
                               content: "";
                               left: 1px;
                               outline: 1px solid #a19f9d;
+                              pointer-events: none;
                               position: absolute;
                               right: 1px;
                               top: 1px;
@@ -6048,6 +6082,7 @@ exports[`Should reflect theme change 1`] = `
                               content: "";
                               left: 1px;
                               outline: 1px solid #a19f9d;
+                              pointer-events: none;
                               position: absolute;
                               right: 1px;
                               top: 1px;
@@ -6134,6 +6169,7 @@ exports[`Should reflect theme change 1`] = `
                               content: "";
                               left: 1px;
                               outline: 1px solid #a19f9d;
+                              pointer-events: none;
                               position: absolute;
                               right: 1px;
                               top: 1px;

@@ -95,6 +95,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -185,6 +186,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -275,6 +277,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -365,6 +368,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -455,6 +459,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -545,6 +550,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -635,6 +641,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -725,6 +732,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -815,6 +823,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -905,6 +914,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -995,6 +1005,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1085,6 +1096,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1175,6 +1187,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1265,6 +1278,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1355,6 +1369,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1445,6 +1460,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1535,6 +1551,7 @@ exports[`Legends snapShot testing renders Legends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1689,6 +1706,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1779,6 +1797,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1869,6 +1888,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1959,6 +1979,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2049,6 +2070,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2139,6 +2161,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2229,6 +2252,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2319,6 +2343,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2409,6 +2434,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2499,6 +2525,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2589,6 +2616,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2679,6 +2707,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2769,6 +2798,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2859,6 +2889,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2949,6 +2980,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3039,6 +3071,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3129,6 +3162,7 @@ exports[`Legends snapShot testing renders allowFocusOnLegends correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3283,6 +3317,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3373,6 +3408,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3463,6 +3499,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3553,6 +3590,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3643,6 +3681,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3733,6 +3772,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3823,6 +3863,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3913,6 +3954,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4003,6 +4045,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4093,6 +4136,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4183,6 +4227,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4273,6 +4318,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4363,6 +4409,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4453,6 +4500,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4543,6 +4591,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4633,6 +4682,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4723,6 +4773,7 @@ exports[`Legends snapShot testing renders canSelectMultipleLegends correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4877,6 +4928,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4967,6 +5019,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5057,6 +5110,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5147,6 +5201,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5237,6 +5292,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5327,6 +5383,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5417,6 +5474,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5507,6 +5565,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5597,6 +5656,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5687,6 +5747,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5777,6 +5838,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5867,6 +5929,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5957,6 +6020,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6047,6 +6111,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6137,6 +6202,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6227,6 +6293,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6317,6 +6384,7 @@ exports[`Legends snapShot testing renders styles correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;

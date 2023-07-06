@@ -337,6 +337,7 @@ exports[`VerticalStackedBarChart - mouse events Should render callout correctly 
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -428,6 +429,7 @@ exports[`VerticalStackedBarChart - mouse events Should render callout correctly 
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -986,6 +988,7 @@ exports[`VerticalStackedBarChart - mouse events Should render customized callout
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1077,6 +1080,7 @@ exports[`VerticalStackedBarChart - mouse events Should render customized callout
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1572,6 +1576,7 @@ exports[`VerticalStackedBarChart - mouse events Should render customized callout
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1663,6 +1668,7 @@ exports[`VerticalStackedBarChart - mouse events Should render customized callout
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1754,6 +1760,7 @@ exports[`VerticalStackedBarChart - mouse events Should render customized callout
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2120,6 +2127,7 @@ exports[`VerticalStackedBarChart snapShot testing Should not render bar labels 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2210,6 +2218,7 @@ exports[`VerticalStackedBarChart snapShot testing Should not render bar labels 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2480,6 +2489,7 @@ exports[`VerticalStackedBarChart snapShot testing renders VerticalStackedBarChar
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2570,6 +2580,7 @@ exports[`VerticalStackedBarChart snapShot testing renders VerticalStackedBarChar
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2823,6 +2834,7 @@ exports[`VerticalStackedBarChart snapShot testing renders enabledLegendsWrapLine
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2913,6 +2925,7 @@ exports[`VerticalStackedBarChart snapShot testing renders enabledLegendsWrapLine
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -3290,6 +3303,7 @@ exports[`VerticalStackedBarChart snapShot testing renders hideTooltip correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3380,6 +3394,7 @@ exports[`VerticalStackedBarChart snapShot testing renders hideTooltip correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3650,6 +3665,7 @@ exports[`VerticalStackedBarChart snapShot testing renders isCalloutForStack corr
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3740,6 +3756,7 @@ exports[`VerticalStackedBarChart snapShot testing renders isCalloutForStack corr
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4010,6 +4027,7 @@ exports[`VerticalStackedBarChart snapShot testing renders showXAxisLablesTooltip
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4100,6 +4118,7 @@ exports[`VerticalStackedBarChart snapShot testing renders showXAxisLablesTooltip
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4370,6 +4389,7 @@ exports[`VerticalStackedBarChart snapShot testing renders wrapXAxisLables correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4460,6 +4480,7 @@ exports[`VerticalStackedBarChart snapShot testing renders wrapXAxisLables correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4730,6 +4751,7 @@ exports[`VerticalStackedBarChart snapShot testing renders yAxisTickFormat correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4820,6 +4842,7 @@ exports[`VerticalStackedBarChart snapShot testing renders yAxisTickFormat correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;

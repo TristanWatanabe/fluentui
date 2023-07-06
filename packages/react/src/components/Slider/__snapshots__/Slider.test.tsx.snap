@@ -89,6 +89,7 @@ exports[`Slider renders correctly 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -472,6 +473,7 @@ exports[`Slider renders range slider correctly 1`] = `
                   content: "";
                   left: -3px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: -3px;
                   top: -3px;
@@ -517,6 +519,7 @@ exports[`Slider renders range slider correctly 1`] = `
                   content: "";
                   left: -3px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: -3px;
                   top: -3px;

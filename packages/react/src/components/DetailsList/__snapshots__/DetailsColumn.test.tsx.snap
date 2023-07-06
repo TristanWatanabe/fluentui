@@ -122,6 +122,7 @@ exports[`DetailsColumn renders a sortable icon on an unsorted column when showSo
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -184,6 +185,7 @@ exports[`DetailsColumn renders a sortable icon on an unsorted column when showSo
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -369,6 +371,7 @@ exports[`DetailsColumn renders a sortable icon on an unsorted column when showSo
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -435,6 +438,7 @@ exports[`DetailsColumn renders a sortable icon on an unsorted column when showSo
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;

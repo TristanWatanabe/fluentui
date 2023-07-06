@@ -271,6 +271,7 @@ exports[`LineChart - mouse events Should render callout correctly on mouseover 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -795,6 +796,7 @@ exports[`LineChart - mouse events Should render customized callout on mouseover 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1217,6 +1219,7 @@ exports[`LineChart - mouse events Should render customized callout per stack on 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1645,6 +1648,7 @@ exports[`LineChart snapShot testing Should render with default colors when line 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1986,6 +1990,7 @@ exports[`LineChart snapShot testing renders LineChart correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2310,6 +2315,7 @@ exports[`LineChart snapShot testing renders enabledLegendsWrapLines correctly 1`
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2828,6 +2834,7 @@ exports[`LineChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3169,6 +3176,7 @@ exports[`LineChart snapShot testing renders showXAxisLablesTooltip correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3510,6 +3518,7 @@ exports[`LineChart snapShot testing renders wrapXAxisLables correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3851,6 +3860,7 @@ exports[`LineChart snapShot testing renders yAxisTickFormat correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;

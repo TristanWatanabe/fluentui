@@ -1436,6 +1436,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1498,6 +1499,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1684,6 +1686,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1749,6 +1752,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1872,6 +1876,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1937,6 +1942,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2060,6 +2066,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2125,6 +2132,7 @@ exports[`DetailsListV2 renders List correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2419,6 +2427,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2481,6 +2490,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2667,6 +2677,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2732,6 +2743,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2799,6 +2811,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2864,6 +2877,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2931,6 +2945,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2996,6 +3011,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3063,6 +3079,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3128,6 +3145,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3195,6 +3213,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3260,6 +3279,7 @@ exports[`DetailsListV2 renders List correctly with onRenderDivider props 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3499,6 +3519,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3561,6 +3582,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3747,6 +3769,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3812,6 +3835,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3935,6 +3959,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -4000,6 +4025,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4123,6 +4149,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -4188,6 +4215,7 @@ exports[`DetailsListV2 renders List in compact mode correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4483,6 +4511,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -4545,6 +4574,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4731,6 +4761,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -4796,6 +4827,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -4919,6 +4951,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -4984,6 +5017,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5107,6 +5141,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -5172,6 +5207,7 @@ exports[`DetailsListV2 renders List in fixed constrained layout correctly 1`] = 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5466,6 +5502,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -5528,6 +5565,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5714,6 +5752,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -5779,6 +5818,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5849,6 +5889,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -5914,6 +5955,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -5984,6 +6026,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -6049,6 +6092,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6119,6 +6163,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -6184,6 +6229,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6254,6 +6300,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -6319,6 +6366,7 @@ exports[`DetailsListV2 renders List with custom icon as column divider 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6562,6 +6610,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -6669,6 +6718,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -6734,6 +6784,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -6857,6 +6908,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -6922,6 +6974,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -7045,6 +7098,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -7110,6 +7164,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -7289,6 +7344,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -7403,6 +7459,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                   content: "";
                                   left: 1px;
                                   outline: 1px solid #605e5c;
+                                  pointer-events: none;
                                   position: absolute;
                                   right: 1px;
                                   top: 1px;
@@ -7535,6 +7592,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #ffffff;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -7621,6 +7679,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -7676,6 +7735,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -7731,6 +7791,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -7817,6 +7878,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #ffffff;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -7903,6 +7965,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -7958,6 +8021,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8013,6 +8077,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8078,6 +8143,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -8192,6 +8258,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                   content: "";
                                   left: 1px;
                                   outline: 1px solid #605e5c;
+                                  pointer-events: none;
                                   position: absolute;
                                   right: 1px;
                                   top: 1px;
@@ -8324,6 +8391,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #ffffff;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -8410,6 +8478,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8465,6 +8534,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8520,6 +8590,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8606,6 +8677,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #ffffff;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -8692,6 +8764,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8747,6 +8820,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8802,6 +8876,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -8888,6 +8963,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                             content: "";
                             left: 1px;
                             outline: 1px solid #ffffff;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -8974,6 +9050,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -9029,6 +9106,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;
@@ -9084,6 +9162,7 @@ exports[`DetailsListV2 renders List with hidden checkboxes correctly 1`] = `
                                 content: "";
                                 left: 0px;
                                 outline: 1px solid #ffffff;
+                                pointer-events: none;
                                 position: absolute;
                                 right: 0px;
                                 top: 0px;

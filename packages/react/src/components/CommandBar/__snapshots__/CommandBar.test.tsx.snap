@@ -97,6 +97,7 @@ exports[`CommandBar renders commands correctly 1`] = `
                       content: "";
                       left: 3px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 3px;
                       top: 3px;
@@ -235,6 +236,7 @@ exports[`CommandBar renders commands correctly 1`] = `
                       content: "";
                       left: 3px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 3px;
                       top: 3px;
@@ -428,6 +430,7 @@ exports[`CommandBar renders empty farItems correctly 1`] = `
                       content: "";
                       left: 3px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 3px;
                       top: 3px;
@@ -566,6 +569,7 @@ exports[`CommandBar renders empty farItems correctly 1`] = `
                       content: "";
                       left: 3px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 3px;
                       top: 3px;

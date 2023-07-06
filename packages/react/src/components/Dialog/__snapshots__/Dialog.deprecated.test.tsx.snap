@@ -911,6 +911,7 @@ exports[`Dialog deprecated props renders Dialog with isBlocking set to true 1`] 
                           content: "";
                           left: 2px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 2px;
                           top: 2px;

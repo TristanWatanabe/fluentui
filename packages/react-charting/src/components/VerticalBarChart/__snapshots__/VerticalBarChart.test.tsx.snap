@@ -307,6 +307,7 @@ exports[`VerticalBarChart - mouse events Should render callout correctly on mous
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -398,6 +399,7 @@ exports[`VerticalBarChart - mouse events Should render callout correctly on mous
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -489,6 +491,7 @@ exports[`VerticalBarChart - mouse events Should render callout correctly on mous
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1017,6 +1020,7 @@ exports[`VerticalBarChart - mouse events Should render customized callout on mou
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1108,6 +1112,7 @@ exports[`VerticalBarChart - mouse events Should render customized callout on mou
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1199,6 +1204,7 @@ exports[`VerticalBarChart - mouse events Should render customized callout on mou
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -1548,6 +1554,7 @@ exports[`VerticalBarChart snapShot testing Should not render bar labels 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1638,6 +1645,7 @@ exports[`VerticalBarChart snapShot testing Should not render bar labels 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1728,6 +1736,7 @@ exports[`VerticalBarChart snapShot testing Should not render bar labels 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2001,6 +2010,7 @@ exports[`VerticalBarChart snapShot testing renders VerticalBarChart correctly 1`
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2091,6 +2101,7 @@ exports[`VerticalBarChart snapShot testing renders VerticalBarChart correctly 1`
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2181,6 +2192,7 @@ exports[`VerticalBarChart snapShot testing renders VerticalBarChart correctly 1`
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2437,6 +2449,7 @@ exports[`VerticalBarChart snapShot testing renders enabledLegendsWrapLines corre
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2527,6 +2540,7 @@ exports[`VerticalBarChart snapShot testing renders enabledLegendsWrapLines corre
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2617,6 +2631,7 @@ exports[`VerticalBarChart snapShot testing renders enabledLegendsWrapLines corre
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -3000,6 +3015,7 @@ exports[`VerticalBarChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3090,6 +3106,7 @@ exports[`VerticalBarChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3180,6 +3197,7 @@ exports[`VerticalBarChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3453,6 +3471,7 @@ exports[`VerticalBarChart snapShot testing renders showXAxisLablesTooltip correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3543,6 +3562,7 @@ exports[`VerticalBarChart snapShot testing renders showXAxisLablesTooltip correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3633,6 +3653,7 @@ exports[`VerticalBarChart snapShot testing renders showXAxisLablesTooltip correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3906,6 +3927,7 @@ exports[`VerticalBarChart snapShot testing renders wrapXAxisLables correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3996,6 +4018,7 @@ exports[`VerticalBarChart snapShot testing renders wrapXAxisLables correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4086,6 +4109,7 @@ exports[`VerticalBarChart snapShot testing renders wrapXAxisLables correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4359,6 +4383,7 @@ exports[`VerticalBarChart snapShot testing renders yAxisTickFormat correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4449,6 +4474,7 @@ exports[`VerticalBarChart snapShot testing renders yAxisTickFormat correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4539,6 +4565,7 @@ exports[`VerticalBarChart snapShot testing renders yAxisTickFormat correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;

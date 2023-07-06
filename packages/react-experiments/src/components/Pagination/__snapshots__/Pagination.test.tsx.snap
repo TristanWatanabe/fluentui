@@ -54,6 +54,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -183,6 +184,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -313,6 +315,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -419,6 +422,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -525,6 +529,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -631,6 +636,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -737,6 +743,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -839,6 +846,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
             content: "";
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 2px;
             top: 2px;
@@ -980,6 +988,7 @@ exports[`Pagination render buttons Pagination correctly 1`] = `
               content: "";
               left: 2px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 2px;
               top: 2px;
@@ -1148,6 +1157,7 @@ exports[`Pagination render comboBox Pagination correctly 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;
@@ -1277,6 +1287,7 @@ exports[`Pagination render comboBox Pagination correctly 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;
@@ -1625,6 +1636,7 @@ exports[`Pagination render comboBox Pagination correctly 1`] = `
               content: "";
               left: 2px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 2px;
               top: 2px;
@@ -1774,6 +1786,7 @@ exports[`Pagination render comboBox Pagination correctly 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;
@@ -1901,6 +1914,7 @@ exports[`Pagination render comboBox Pagination correctly 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;
