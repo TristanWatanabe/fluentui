@@ -122,6 +122,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -184,6 +185,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -370,6 +372,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -435,6 +438,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -502,6 +506,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -567,6 +572,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -634,6 +640,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -699,6 +706,7 @@ exports[`DetailsRow renders details list row correctly 1`] = `
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -957,6 +965,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1019,6 +1028,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1205,6 +1215,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1270,6 +1281,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1337,6 +1349,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1402,6 +1415,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1469,6 +1483,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -1534,6 +1549,7 @@ exports[`DetailsRow renders details list row with all rows selected correctly 1`
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -1716,6 +1732,7 @@ exports[`DetailsRow renders details list row with checkbox visible always correc
         content: "";
         left: 1px;
         outline: 1px solid #ffffff;
+        pointer-events: none;
         position: absolute;
         right: 1px;
         top: 1px;
@@ -1785,6 +1802,7 @@ exports[`DetailsRow renders details list row with checkbox visible always correc
           content: "";
           left: 0px;
           outline: 1px solid #ffffff;
+          pointer-events: none;
           position: absolute;
           right: 0px;
           top: 0px;
@@ -1846,6 +1864,7 @@ exports[`DetailsRow renders details list row with checkbox visible always correc
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -2024,6 +2043,7 @@ exports[`DetailsRow renders details list row with checkbox visible always correc
             content: "";
             left: 0px;
             outline: 1px solid #ffffff;
+            pointer-events: none;
             position: absolute;
             right: 0px;
             top: 0px;
@@ -2079,6 +2099,7 @@ exports[`DetailsRow renders details list row with checkbox visible always correc
             content: "";
             left: 0px;
             outline: 1px solid #ffffff;
+            pointer-events: none;
             position: absolute;
             right: 0px;
             top: 0px;
@@ -2134,6 +2155,7 @@ exports[`DetailsRow renders details list row with checkbox visible always correc
             content: "";
             left: 0px;
             outline: 1px solid #ffffff;
+            pointer-events: none;
             position: absolute;
             right: 0px;
             top: 0px;
@@ -2289,6 +2311,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2351,6 +2374,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2537,6 +2561,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2602,6 +2627,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2669,6 +2695,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2734,6 +2761,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -2801,6 +2829,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -2866,6 +2895,7 @@ exports[`DetailsRow renders details list row with multiple selections correctly 
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3124,6 +3154,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3186,6 +3217,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3372,6 +3404,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3437,6 +3470,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3504,6 +3538,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3569,6 +3604,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;
@@ -3636,6 +3672,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                   content: "";
                   left: 1px;
                   outline: 1px solid #605e5c;
+                  pointer-events: none;
                   position: absolute;
                   right: 1px;
                   top: 1px;
@@ -3701,6 +3738,7 @@ exports[`DetailsRow renders details list row with one row selected correctly 1`]
                       content: "";
                       left: 1px;
                       outline: 1px solid #605e5c;
+                      pointer-events: none;
                       position: absolute;
                       right: 1px;
                       top: 1px;

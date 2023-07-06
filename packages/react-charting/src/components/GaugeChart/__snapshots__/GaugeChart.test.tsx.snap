@@ -255,6 +255,7 @@ exports[`GaugeChart - event listeners testing should show a callout when the mou
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -341,6 +342,7 @@ exports[`GaugeChart - event listeners testing should show a callout when the mou
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -427,6 +429,7 @@ exports[`GaugeChart - event listeners testing should show a callout when the mou
                             content: "";
                             left: 1px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -1035,6 +1038,7 @@ exports[`GaugeChart - snapshot testing should not render min and max values of t
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1126,6 +1130,7 @@ exports[`GaugeChart - snapshot testing should not render min and max values of t
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1217,6 +1222,7 @@ exports[`GaugeChart - snapshot testing should not render min and max values of t
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1761,6 +1767,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly 1`] = 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1852,6 +1859,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly 1`] = 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1943,6 +1951,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly 1`] = 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2308,6 +2317,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly in dar
                             content: "";
                             left: 1px;
                             outline: 1px solid #a19f9d;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -2399,6 +2409,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly in dar
                             content: "";
                             left: 1px;
                             outline: 1px solid #a19f9d;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -2490,6 +2501,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly in dar
                             content: "";
                             left: 1px;
                             outline: 1px solid #a19f9d;
+                            pointer-events: none;
                             position: absolute;
                             right: 1px;
                             top: 1px;
@@ -2843,6 +2855,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly when t
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2934,6 +2947,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly when t
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3025,6 +3039,7 @@ exports[`GaugeChart - snapshot testing should render GaugeChart correctly when t
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3357,6 +3372,7 @@ exports[`GaugeChart - snapshot testing should render a color from DataVizPalette
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3448,6 +3464,7 @@ exports[`GaugeChart - snapshot testing should render a color from DataVizPalette
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3781,6 +3798,7 @@ exports[`GaugeChart - snapshot testing should render a placeholder segment when 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3872,6 +3890,7 @@ exports[`GaugeChart - snapshot testing should render a placeholder segment when 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4237,6 +4256,7 @@ exports[`GaugeChart - snapshot testing should render the chart title correctly 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4328,6 +4348,7 @@ exports[`GaugeChart - snapshot testing should render the chart title correctly 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4419,6 +4440,7 @@ exports[`GaugeChart - snapshot testing should render the chart title correctly 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4771,6 +4793,7 @@ exports[`GaugeChart - snapshot testing should render the chart value in fraction
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4862,6 +4885,7 @@ exports[`GaugeChart - snapshot testing should render the chart value in fraction
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4953,6 +4977,7 @@ exports[`GaugeChart - snapshot testing should render the chart value in fraction
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -5329,6 +5354,7 @@ exports[`GaugeChart - snapshot testing should render the sublabel correctly 1`] 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -5420,6 +5446,7 @@ exports[`GaugeChart - snapshot testing should render the sublabel correctly 1`] 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -5511,6 +5538,7 @@ exports[`GaugeChart - snapshot testing should render the sublabel correctly 1`] 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;

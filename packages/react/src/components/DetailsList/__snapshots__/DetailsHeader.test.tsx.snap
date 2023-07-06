@@ -80,6 +80,7 @@ exports[`DetailsHeader can render 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -142,6 +143,7 @@ exports[`DetailsHeader can render 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -328,6 +330,7 @@ exports[`DetailsHeader can render 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -393,6 +396,7 @@ exports[`DetailsHeader can render 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -517,6 +521,7 @@ exports[`DetailsHeader can render 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -582,6 +587,7 @@ exports[`DetailsHeader can render 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -736,6 +742,7 @@ exports[`DetailsHeader can render 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -803,6 +810,7 @@ exports[`DetailsHeader can render 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -999,6 +1007,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -1060,6 +1069,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -1110,6 +1120,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -1175,6 +1186,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -1299,6 +1311,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -1364,6 +1377,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -1518,6 +1532,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -1585,6 +1600,7 @@ exports[`DetailsHeader can render a hidden select all checkbox in single selecti
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -1781,6 +1797,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -1844,6 +1861,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -2054,6 +2072,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -2119,6 +2138,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -2244,6 +2264,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -2309,6 +2330,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;
@@ -2489,6 +2511,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -2556,6 +2579,7 @@ exports[`DetailsHeader renders accessible labels 1`] = `
               content: "";
               left: 1px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 1px;
               top: 1px;

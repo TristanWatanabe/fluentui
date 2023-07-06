@@ -242,6 +242,7 @@ exports[`ComboBox Renders correctly 1`] = `
               content: "";
               left: 2px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 2px;
               top: 2px;
@@ -572,6 +573,7 @@ exports[`ComboBox Renders correctly when open 1`] = `
               content: "";
               left: 2px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 2px;
               top: 2px;
@@ -842,6 +844,7 @@ exports[`ComboBox Renders correctly when open 1`] = `
                             content: "";
                             left: 2px;
                             outline: 1px solid #605e5c;
+                            pointer-events: none;
                             position: absolute;
                             right: 2px;
                             top: 2px;
@@ -997,6 +1000,7 @@ exports[`ComboBox Renders correctly when open 1`] = `
                           content: "";
                           left: 2px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 2px;
                           top: 2px;
@@ -1048,6 +1052,7 @@ exports[`ComboBox Renders correctly when open 1`] = `
                           content: "";
                           left: 0px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 0px;
                           top: 0px;
@@ -1339,6 +1344,7 @@ exports[`ComboBox Renders correctly when opened in multi-select mode 1`] = `
               content: "";
               left: 2px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 2px;
               top: 2px;
@@ -2233,6 +2239,7 @@ exports[`ComboBox renders with a Keytip correctly 1`] = `
               content: "";
               left: 2px;
               outline: 1px solid #605e5c;
+              pointer-events: none;
               position: absolute;
               right: 2px;
               top: 2px;

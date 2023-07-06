@@ -295,6 +295,7 @@ exports[`AreaChart - mouse events Should render callout correctly on mouseover 1
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -837,6 +838,7 @@ exports[`AreaChart - mouse events Should render customized callout on mouseover 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1276,6 +1278,7 @@ exports[`AreaChart - mouse events Should render customized callout per stack on 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1673,6 +1676,7 @@ exports[`AreaChart snapShot testing Should not render circles when optimizeLarge
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2027,6 +2031,7 @@ exports[`AreaChart snapShot testing Should render with default colors when line 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2381,6 +2386,7 @@ exports[`AreaChart snapShot testing renders Areachart correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2722,6 +2728,7 @@ exports[`AreaChart snapShot testing renders Areachart with single point correctl
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3059,6 +3066,7 @@ exports[`AreaChart snapShot testing renders enabledLegendsWrapLines correctly 1`
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -3604,6 +3612,7 @@ exports[`AreaChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3958,6 +3967,7 @@ exports[`AreaChart snapShot testing renders showXAxisLablesTooltip correctly 1`]
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4312,6 +4322,7 @@ exports[`AreaChart snapShot testing renders wrapXAxisLables correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4666,6 +4677,7 @@ exports[`AreaChart snapShot testing renders yAxisTickFormat correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;

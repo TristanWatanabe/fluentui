@@ -47,6 +47,7 @@ exports[`Rating renders correctly 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -90,6 +91,7 @@ exports[`Rating renders correctly 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -248,6 +250,7 @@ exports[`Rating renders correctly 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -405,6 +408,7 @@ exports[`Rating renders correctly 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -562,6 +566,7 @@ exports[`Rating renders correctly 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -719,6 +724,7 @@ exports[`Rating renders correctly 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -897,6 +903,7 @@ exports[`Rating renders correctly with half star 1`] = `
           content: "";
           left: 1px;
           outline: 1px solid #605e5c;
+          pointer-events: none;
           position: absolute;
           right: 1px;
           top: 1px;
@@ -940,6 +947,7 @@ exports[`Rating renders correctly with half star 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -1097,6 +1105,7 @@ exports[`Rating renders correctly with half star 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -1254,6 +1263,7 @@ exports[`Rating renders correctly with half star 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -1412,6 +1422,7 @@ exports[`Rating renders correctly with half star 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;
@@ -1569,6 +1580,7 @@ exports[`Rating renders correctly with half star 1`] = `
             content: "";
             left: 1px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: absolute;
             right: 1px;
             top: 1px;

@@ -78,6 +78,7 @@ exports[`Pivot renders link Pivot correctly 1`] = `
             content: attr(data-content);
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: relative;
             right: 2px;
             top: 2px;
@@ -247,6 +248,7 @@ exports[`Pivot renders link Pivot correctly 1`] = `
             content: attr(data-content);
             left: 2px;
             outline: 1px solid #605e5c;
+            pointer-events: none;
             position: relative;
             right: 2px;
             top: 2px;

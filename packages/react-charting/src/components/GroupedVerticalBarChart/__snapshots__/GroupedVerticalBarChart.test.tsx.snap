@@ -349,6 +349,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render callout correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -440,6 +441,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render callout correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -531,6 +533,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render callout correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1101,6 +1104,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render customized callout
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1192,6 +1196,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render customized callout
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1283,6 +1288,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render customized callout
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1764,6 +1770,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders GroupedVerticalBarChar
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1854,6 +1861,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders GroupedVerticalBarChar
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1944,6 +1952,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders GroupedVerticalBarChar
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2331,6 +2340,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders enabledLegendsWrapLine
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2421,6 +2431,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders enabledLegendsWrapLine
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -2511,6 +2522,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders enabledLegendsWrapLine
                     content: "";
                     left: 1px;
                     outline: 1px solid #605e5c;
+                    pointer-events: none;
                     position: absolute;
                     right: 1px;
                     top: 1px;
@@ -3156,6 +3168,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders hideTooltip correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3246,6 +3259,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders hideTooltip correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3336,6 +3350,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders hideTooltip correctly 
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3740,6 +3755,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders showXAxisLablesTooltip
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3830,6 +3846,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders showXAxisLablesTooltip
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -3920,6 +3937,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders showXAxisLablesTooltip
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4324,6 +4342,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders wrapXAxisLables correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4414,6 +4433,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders wrapXAxisLables correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4504,6 +4524,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders wrapXAxisLables correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4908,6 +4929,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders yAxisTickFormat correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -4998,6 +5020,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders yAxisTickFormat correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -5088,6 +5111,7 @@ exports[`GroupedVerticalBarChart snapShot testing renders yAxisTickFormat correc
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;

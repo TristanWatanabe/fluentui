@@ -39,6 +39,7 @@ exports[`TagItem accepts title override 1`] = `
         content: "";
         left: 1px;
         outline: 1px solid #605e5c;
+        pointer-events: none;
         position: absolute;
         right: 1px;
         top: 1px;
@@ -117,6 +118,7 @@ exports[`TagItem accepts title override 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #ffffff;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;
@@ -265,6 +267,7 @@ exports[`TagItem defaults title to item name for non string children 1`] = `
         content: "";
         left: 1px;
         outline: 1px solid #605e5c;
+        pointer-events: none;
         position: absolute;
         right: 1px;
         top: 1px;
@@ -367,6 +370,7 @@ exports[`TagItem defaults title to item name for non string children 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #ffffff;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;
@@ -515,6 +519,7 @@ exports[`TagItem renders correctly 1`] = `
         content: "";
         left: 1px;
         outline: 1px solid #605e5c;
+        pointer-events: none;
         position: absolute;
         right: 1px;
         top: 1px;
@@ -593,6 +598,7 @@ exports[`TagItem renders correctly 1`] = `
           content: "";
           left: 2px;
           outline: 1px solid #ffffff;
+          pointer-events: none;
           position: absolute;
           right: 2px;
           top: 2px;

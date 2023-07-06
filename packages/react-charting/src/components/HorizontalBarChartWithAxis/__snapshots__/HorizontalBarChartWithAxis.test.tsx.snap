@@ -290,6 +290,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -381,6 +382,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -472,6 +474,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -563,6 +566,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -685,6 +689,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -776,6 +781,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -867,6 +873,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -958,6 +965,7 @@ exports[`HorizontalBarChartWithAxis - mouse events Should render callout correct
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1411,6 +1419,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders HorizontalBarChartW
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1501,6 +1510,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders HorizontalBarChartW
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1591,6 +1601,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders HorizontalBarChartW
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1681,6 +1692,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders HorizontalBarChartW
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2103,6 +2115,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showToolTipForYAxis
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2191,6 +2204,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showToolTipForYAxis
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2279,6 +2293,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showToolTipForYAxis
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2367,6 +2382,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showToolTipForYAxis
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2654,6 +2670,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showYAxisLables cor
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2742,6 +2759,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showYAxisLables cor
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2830,6 +2848,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showYAxisLables cor
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -2918,6 +2937,7 @@ exports[`HorizontalBarChartWithAxis snapShot testing renders showYAxisLables cor
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
