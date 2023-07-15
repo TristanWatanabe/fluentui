@@ -101,7 +101,7 @@ exports[`HeatMapChart - mouse events Should render callout correctly on mouseove
         transform="translate(40, 0)"
       />
       <g
-        aria-label="Mar/03, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
+        aria-label="Mar/04, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
         off and people of alaska are hoping for more of this days."
         data-is-focusable={true}
         fillOpacity="1"
@@ -138,7 +138,7 @@ exports[`HeatMapChart - mouse events Should render callout correctly on mouseove
         </text>
       </g>
       <g
-        aria-label="Mar/02, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
+        aria-label="Mar/03, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
         data-is-focusable={true}
         fillOpacity="1"
         key="10"
@@ -272,7 +272,6 @@ exports[`HeatMapChart - mouse events Should render callout correctly on mouseove
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
-                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -442,7 +441,7 @@ exports[`HeatMapChart - mouse events Should render callout correctly on mouseove
                     opacity: 0.8;
                   }
             >
-               
+
             </div>
           </div>
           <div
@@ -659,7 +658,7 @@ exports[`HeatMapChart snapShot testing renders HeatMapChart correctly 1`] = `
         transform="translate(40, 0)"
       />
       <g
-        aria-label="Mar/03, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
+        aria-label="Mar/04, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
         off and people of alaska are hoping for more of this days."
         data-is-focusable={true}
         fillOpacity="1"
@@ -696,7 +695,7 @@ exports[`HeatMapChart snapShot testing renders HeatMapChart correctly 1`] = `
         </text>
       </g>
       <g
-        aria-label="Mar/02, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
+        aria-label="Mar/03, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
         data-is-focusable={true}
         fillOpacity="1"
         key="10"
@@ -836,7 +835,6 @@ exports[`HeatMapChart snapShot testing renders HeatMapChart correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
-                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1002,7 +1000,7 @@ exports[`HeatMapChart snapShot testing renders corretly even when data is not pr
         transform="translate(40, 0)"
       />
       <g
-        aria-label="Mar/03, p2. Nasty, 25/2479. Due to unexpected heavy rain, all the pollutants are washed
+        aria-label="Mar/04, p2. Nasty, 25/2479. Due to unexpected heavy rain, all the pollutants are washed
       off and people of alaska are hoping for more of this days."
         data-is-focusable={true}
         fillOpacity="1"
@@ -1039,7 +1037,7 @@ exports[`HeatMapChart snapShot testing renders corretly even when data is not pr
         </text>
       </g>
       <g
-        aria-label="Mar/02, p1. Nasty, 50/2391. a good day to start with in Texas with best air quality."
+        aria-label="Mar/03, p1. Nasty, 50/2391. a good day to start with in Texas with best air quality."
         data-is-focusable={true}
         fillOpacity="1"
         key="10"
@@ -1179,7 +1177,6 @@ exports[`HeatMapChart snapShot testing renders corretly even when data is not pr
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
-                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1271,7 +1268,6 @@ exports[`HeatMapChart snapShot testing renders corretly even when data is not pr
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
-                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1437,7 +1433,7 @@ exports[`HeatMapChart snapShot testing renders hideLegend correctly 1`] = `
         transform="translate(40, 0)"
       />
       <g
-        aria-label="Mar/03, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
+        aria-label="Mar/04, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
         off and people of alaska are hoping for more of this days."
         data-is-focusable={true}
         fillOpacity="1"
@@ -1474,7 +1470,7 @@ exports[`HeatMapChart snapShot testing renders hideLegend correctly 1`] = `
         </text>
       </g>
       <g
-        aria-label="Mar/02, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
+        aria-label="Mar/03, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
         data-is-focusable={true}
         fillOpacity="1"
         key="10"
@@ -1618,7 +1614,7 @@ exports[`HeatMapChart snapShot testing renders hideTooltip correctly 1`] = `
         transform="translate(40, 0)"
       />
       <g
-        aria-label="Mar/03, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
+        aria-label="Mar/04, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
         off and people of alaska are hoping for more of this days."
         data-is-focusable={true}
         fillOpacity="1"
@@ -1655,7 +1651,7 @@ exports[`HeatMapChart snapShot testing renders hideTooltip correctly 1`] = `
         </text>
       </g>
       <g
-        aria-label="Mar/02, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
+        aria-label="Mar/03, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
         data-is-focusable={true}
         fillOpacity="1"
         key="10"
@@ -1795,7 +1791,6 @@ exports[`HeatMapChart snapShot testing renders hideTooltip correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
-                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1961,7 +1956,7 @@ exports[`HeatMapChart snapShot testing renders yAxisTickFormat correctly 1`] = `
         transform="translate(40, 0)"
       />
       <g
-        aria-label="Mar/03, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
+        aria-label="Mar/04, p2. Execllent (0-200), 25/2479. Due to unexpected heavy rain, all the pollutants are washed
         off and people of alaska are hoping for more of this days."
         data-is-focusable={true}
         fillOpacity="1"
@@ -1998,7 +1993,7 @@ exports[`HeatMapChart snapShot testing renders yAxisTickFormat correctly 1`] = `
         </text>
       </g>
       <g
-        aria-label="Mar/02, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
+        aria-label="Mar/03, p1. Execllent (0-200), 50/2391. a good day to start with in Texas with best air quality."
         data-is-focusable={true}
         fillOpacity="1"
         key="10"
@@ -2138,7 +2133,6 @@ exports[`HeatMapChart snapShot testing renders yAxisTickFormat correctly 1`] = `
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
-                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
