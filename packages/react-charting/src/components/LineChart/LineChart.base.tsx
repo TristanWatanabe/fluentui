@@ -170,6 +170,7 @@ export class LineChartBase extends React.Component<ILineChartProps, ILineChartSt
   private _rectId: string;
   private _staticHighlightCircle: string;
   private _createLegendsMemoized: (data: LineChartDataWithIndex[]) => JSX.Element;
+  private _firstRenderOptimization: boolean;
 
   constructor(props: ILineChartProps) {
     super(props);
@@ -201,6 +202,7 @@ export class LineChartBase extends React.Component<ILineChartProps, ILineChartSt
     this._rectId = getId('containerRectLD');
     this._staticHighlightCircle = getId('staticHighlightCircle');
     this._createLegendsMemoized = memoizeFunction((data: LineChartDataWithIndex[]) => this._createLegends(data));
+    this._firstRenderOptimization = true;
 
     props.eventAnnotationProps &&
       props.eventAnnotationProps.labelHeight &&
@@ -266,8 +268,8 @@ export class LineChartBase extends React.Component<ILineChartProps, ILineChartSt
       ...this.props.calloutProps,
     };
     const tickParams = {
-      tickValues: tickValues,
-      tickFormat: tickFormat,
+      tickValues,
+      tickFormat,
     };
 
     return !this.state.emptyChart ? (
@@ -285,6 +287,7 @@ export class LineChartBase extends React.Component<ILineChartProps, ILineChartSt
         xAxisType={isXAxisDateType ? XAxisTypes.DateAxis : XAxisTypes.NumericAxis}
         customizedCallout={this._getCustomizedCallout()}
         onChartMouseLeave={this._handleChartMouseLeave}
+        enableFirstRenderOptimization={this.props.enablePerfOptimization && this._firstRenderOptimization}
         /* eslint-disable react/jsx-no-bind */
         // eslint-disable-next-line react/no-children-prop
         children={(props: IChildProps) => {
@@ -413,7 +416,7 @@ export class LineChartBase extends React.Component<ILineChartProps, ILineChartSt
       // mapping data to the format Legends component needs
       const legend: ILegend = {
         title: point.legend!,
-        color: color,
+        color,
         action: () => {
           if (isLegendMultiSelectEnabled) {
             this._handleMultipleLineLegendSelectionAction(point);
