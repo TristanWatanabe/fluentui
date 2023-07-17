@@ -696,7 +696,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render callout correctly 
                     opacity: 0.8;
                   }
             >
-
+               
             </div>
           </div>
           <div
@@ -1098,6 +1098,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render customized callout
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1189,6 +1190,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render customized callout
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
@@ -1280,6 +1282,7 @@ exports[`GroupedVerticalBarChart - mouse events Should render customized callout
                           content: "";
                           left: 1px;
                           outline: 1px solid #605e5c;
+                          pointer-events: none;
                           position: absolute;
                           right: 1px;
                           top: 1px;
